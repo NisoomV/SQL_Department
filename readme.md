@@ -1,6 +1,10 @@
 # SQL Department Analysis
-As a manager seeking insights into salary disparities and identifyin Departments with salaries above and below the average within each department.
-# Insight
+## Objective
+**Addressing Salary Disparities**: Managers need insights into salary variations within departments to identify and address discrepancies. This project aims to:
+
+- Investigate the factors contributing to salary variances within each department.
+- Develop actionable insights to reduce discrepancies and promote fair compensation practices.
+## Insight
 
 ![Output](Result.png)
 
@@ -12,7 +16,7 @@ Based on all these metrics (Coefficient of Variation, outliers, standard deciati
 4. **PWD**: High number of outliers and fair CV.
 5. **CWA**: fairly high standard deviation, high CV and fair number of outliers.
 
-# Project Workflow
+## Project Workflow
 
 1. Data Preparation:
 
