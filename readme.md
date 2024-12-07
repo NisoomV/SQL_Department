@@ -12,7 +12,7 @@ Based on all these metrics (Coefficient of Variation, outliers, standard deciati
 4. **PWD**: High number of outliers and fair CV.
 5. **CWA**: fairly high standard deviation, high CV and fair number of outliers.
 
-#Project Workflow
+# Project Workflow
 
 1. Data Preparation:
 
