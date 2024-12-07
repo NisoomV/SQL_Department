@@ -1,7 +1,9 @@
 # SQL Department Analysis
 As a manager seeking insights into salary disparities and identifyin Departments with salaries above and below the average within each department.
 # Insight
-!(Output)[Result.png]
+
+![Output](Result.png)
+
 Based on all these metrics (CV, outliers, standard deciation), These departments show the most variance and discrepancy in salary according to the metrics:
 
 1. CMD: High CV, high standard deviation, and some outliers.
