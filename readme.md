@@ -6,7 +6,13 @@
 - Develop actionable insights to reduce discrepancies and promote fair compensation practices.
 ## Insight
 
+*By Outlier Count*<br/>
+
 ![Output](Result.png)
+
+*By Coffecient of Variation*<br/>
+
+![By_COV](ByCOV.png)
 
 Based on all these metrics (Coefficient of Variation, outliers, standard deciation), These departments show the most variance and discrepancy in salary according to the metrics:
 
