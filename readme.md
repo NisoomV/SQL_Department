@@ -10,7 +10,7 @@
 
 ![Output](Result.png)
 
-*By Coffecient of Variation*<br/>
+*By Coeffecient of Variation*<br/>
 
 ![By_COV](ByCOV.png)
 
